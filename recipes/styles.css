@@ -1,0 +1,38 @@
+body {
+    background-color: bisque;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(126, 45, 45);
+}
+
+h1{
+    text-align: center;
+    font-weight: 800;
+    font-style: italic;
+    font-size: 34px;
+}
+
+.desc{
+    text-align: left;
+    font-weight: 700;
+    background-color: bisque;
+}
+
+p{
+    font-style: italic;
+}
+
+h2{
+    text-align: center;
+    background-color: rgb(204, 187, 162);
+}
+
+.lists{
+    font-size: 18px;
+    color: rgb(56, 46, 33);
+}
+
+img {
+    text-align: center;
+    width: auto;
+    height: 400px;
+}
