@@ -1,17 +1,30 @@
+
+
 body {
     background-color: bisque;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgb(126, 45, 45);
 }
 
-h1{
+.image {
+    text-align: center;
+    margin: 4px;
+}
+
+h1 {
+    background-color: rgb(238, 221, 201);
+    margin: 6px auto;
+    border: 2px solid rgb(65, 55, 42);
     text-align: center;
     font-weight: 800;
     font-style: italic;
     font-size: 34px;
+    width: 200px;
 }
 
 .desc{
+    width: 780px;
+    margin: 2px auto;
     text-align: left;
     font-weight: 700;
     background-color: bisque;
@@ -22,6 +35,8 @@ p{
 }
 
 h2{
+    width: 160px;
+    margin: 2px auto;
     text-align: center;
     background-color: rgb(204, 187, 162);
 }

@@ -5,13 +5,28 @@ body {
 }
 
 h1 {
+    background: rgb(126, 121, 121);
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
+    margin: 20px auto;
+    padding: 8px;
+    border: 2px solid white;
+    width: 500px;
 }
 
-.bih {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 18px;
+.list {
+    background-color: rgb(212, 192, 167);
+    list-style-type: none;
     text-align: center;
-    color: black;
+    display: block;
+    padding: 8px;
+}
+
+.button{
+    width: 120px;
+    margin: 12px auto;
+    padding: 8px 32px;
+    border: 2px solid rgb(22, 153, 22);
+    background-color: lightgreen;
+    display: block;
 }
